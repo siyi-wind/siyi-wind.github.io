@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Siyi Du"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD student at the [Biomedical Image Analysis Group](https://biomedia.doc.ic.ac.uk/), Imperial College London under Prof. [Qin Chen](https://cq615.github.io/), where I work on Medical Imaging and Deep Learning. I received my MASC degree in Electrical and Computer Engineering from the University of British Columbia at 2023, where I was a member at the Biomedical Signal and Image Computing Laboratory ([BiSICL](https://bisicl.ece.ubc.ca/)) and supervised by Prof. [Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/). Besides, I obtained my bachelor degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021.
 
-A data-driven personal website
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+News &#x1F408;
+======
+&#x2B50; [Oct-2023] Our paper (AViT) has been awarded the best paper at the 8th ISIC Workshop @MICCAI2023!
+
+&#x2B50; [Oct-2023] I joined Imperial College London as a PhD student.
+
+&#x2B50; [Sep-2023] I successfully graduated from the University of British Columbia!
+
+&#x2B50; [Jul-2023] Two papers (AViT and Continual-GEN) are accepted by the 8th ISIC Workshop @MICCAI2023!!
+
+&#x2B50; [Jun-2023] One paper (MDViT) is accepted by MICCAI 2023!!
+
+&#x2B50; [May-2023] Our paper (FairDisCo) has been awarded the best paper at the 7th ISIC Workshop @ECCV2022!
+
+&#x2B50; [August-2022] Our paper (FairDisCo) has been accepted by the 7th ISIC Workshop @ECCV2022!
+
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +66,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
