@@ -14,19 +14,19 @@ I am a PhD student at the Biomedical Image Analysis Group([BiMedIA](https://biom
 
 News &#x1F408;
 ======
-&#x2B50; &ensp; [**Oct-2023**] Our paper (AViT) has been awarded the best paper at the 8th ISIC Workshop @MICCAI2023!
+&#x2B50; &ensp; [*Oct-2023*] Our paper (AViT) has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023!
 
-&#x2B50; &ensp; [**Oct-2023**] I joined Imperial College London as a PhD student (full scholarship).
+&#x2B50; &ensp; [*Oct-2023*] I joined Imperial College London as a **PhD student** (full scholarship).
 
-&#x2B50; &ensp; [**Sep-2023**] I successfully graduated from the University of British Columbia!
+&#x2B50; &ensp; [*Sep-2023*] I successfully graduated from the University of British Columbia!
 
-&#x2B50; &ensp; [**Jul-2023**] Two papers (AViT and Continual-GEN) are accepted by the 8th ISIC Workshop @MICCAI2023!!
+&#x2B50; &ensp; [*Jul-2023*] Two papers (AViT and Continual-GEN) are **accepted** by the 8th ISIC Workshop @MICCAI2023!!
 
-&#x2B50; &ensp; [**Jun-2023**] One paper (MDViT) is accepted by MICCAI 2023!!
+&#x2B50; &ensp; [*Jun-2023*] One paper (MDViT) is **accepted** by MICCAI 2023!!
 
-&#x2B50; &ensp; [**May-2023**] Our paper (FairDisCo) has been awarded the best paper at the 7th ISIC Workshop @ECCV2022!
+&#x2B50; &ensp; [*May-2023*] Our paper (FairDisCo) has been awarded **the best paper** at the 7th ISIC Workshop @ECCV2022!
 
-&#x2B50; &ensp; [**August-2022**] Our paper (FairDisCo) has been accepted by the 7th ISIC Workshop @ECCV2022!
+&#x2B50; &ensp; [*August-2022*] Our paper (FairDisCo) has been **accepted** by the 7th ISIC Workshop @ECCV2022!
 
 
 <!-- A data-driven personal website
