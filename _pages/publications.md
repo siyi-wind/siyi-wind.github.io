@@ -19,6 +19,7 @@ author_profile: true
 
 <!-- AViT -->
 <img align="left" width="300" src="/images/siyi_MICCAIW2023_AViT.png" style="margin-right: 15px" /> 
+
 [AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets](http://arxiv.org/abs/2307.13897) \
 **Siyi Du**, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi   \
 *MICCAI 8th ISIC Workshop*, 2023, **Best Paper Award**  \
@@ -27,6 +28,7 @@ author_profile: true
 
 <!-- Continual-GEN -->
 <img align="left" width="300" src="/images/siyi_MICCAIW2023_Continual-GEN.png" style="margin-right: 15px" /> 
+
 [Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification](https://workshop2023.isic-archive.com/paper_bayasi.pdf) \
 Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 *MICCAI 8th ISIC Workshop*, 2023  \
@@ -35,6 +37,7 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 
 <!-- Master Thesis -->
 <img align="left" width="300" src="/images/siyi_MasterThesis2023.png" style="margin-right: 15px" /> 
+
 [Deep Learning for Dermatology : Contributions in Model Fairness, Multi-domain Adaptation, and Light-weight Efficiency](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0435879) \
 **Siyi Du**   \
 *Master's Thesis, University of British Columbia*, 2023, **A+**  \
@@ -44,6 +47,7 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 
 <!-- MDViT -->
 <img align="left" width="300" src="/images/siyi_MICCAI2023_MDViT.png" style="margin-right: 15px" /> 
+
 [MDViT: Multi-domain Vision Transformer for Small Medical Image Segmentation Datasets](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_43) \
 **Siyi Du**, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi   \
 *MICCAI*, 2023  \
@@ -52,6 +56,7 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 
 <!-- FairDisCo -->
 <img align="left" width="300" src="/images/siyi_ECCVW2022_FairDisCo.png" style="margin-right: 15px" /> 
+
 [FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_13) \
 **Siyi Du**, Ben Hers, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi   \
 *ECCV 7th ISIC Workshop*, 2023, **Best Paper Award**  \
@@ -61,6 +66,7 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 
 <!-- KBGN -->
 <img align="left" width="300" src="/images/siyi_ACMMM2020_KBGN.png" style="margin-right: 15px" /> 
+ 
 [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://dl.acm.org/doi/abs/10.1145/3394171.3413826) \
 Xiaoze Jiang, **Siyi Du**, Zengchang Qin, Yajing Sun, Jing Yu   \
 *ACM International Conference on Multimedia (ACM MM)*, 2023, **Oral**  \
