@@ -59,7 +59,7 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 
 [FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning](https://link.springer.com/chapter/10.1007/978-3-031-25069-9_13) \
 **Siyi Du**, Ben Hers, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi   \
-*ECCV 7th ISIC Workshop*, 2023, **Best Paper Award**  \
+*ECCV 7th ISIC Workshop*, 2022, **Best Paper Award**  \
 [arXiv](https://arxiv.org/abs/2208.10013) / [code](https://github.com/siyi-wind/FairDisCo)/ [video](https://github.com/siyi-wind/FairDisCo)
 <br/><br/>
 
@@ -69,5 +69,5 @@ Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
  
 [KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue](https://dl.acm.org/doi/abs/10.1145/3394171.3413826) \
 Xiaoze Jiang, **Siyi Du**, Zengchang Qin, Yajing Sun, Jing Yu   \
-*ACM International Conference on Multimedia (ACM MM)*, 2023, **Oral**  \
+*ACM International Conference on Multimedia (ACM MM)*, 2020, **Oral**  \
 [arXiv](https://arxiv.org/abs/2008.04858)
