@@ -20,7 +20,7 @@ author_profile: true
 <!-- AViT -->
 <img align="left" width="300" src="/images/siyi_MICCAIW2023_AViT.png" style="margin-right: 15px" /> 
 
-[AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets](http://arxiv.org/abs/2307.13897) \
+[AViT: Adapting Vision Transformers for Small Skin Lesion Segmentation Datasets](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_3) \
 **Siyi Du**, Nourhan Bayasi, Ghassan Hamarneh, Rafeef Garbi   \
 *MICCAI 8th ISIC Workshop*, 2023, **Best Paper Award**  \
 [arXiv](http://arxiv.org/abs/2307.13897) / [code](https://github.com/siyi-wind/AViT)
@@ -29,7 +29,7 @@ author_profile: true
 <!-- Continual-GEN -->
 <img align="left" width="300" src="/images/siyi_MICCAIW2023_Continual-GEN.png" style="margin-right: 15px" /> 
 
-[Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification](https://workshop2023.isic-archive.com/paper_bayasi.pdf) \
+[Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1) \
 Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
 *MICCAI 8th ISIC Workshop*, 2023  \
 [pdf](https://workshop2023.isic-archive.com/paper_bayasi.pdf) / [code](https://github.com/nourhanb/Continual-GEN)
