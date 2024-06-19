@@ -17,7 +17,9 @@ author_profile: true
 
 Service
 ====
+* **Reviewer**, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * **Program Committee & Reviewer**, [8th ISIC Skin Image Analysis Workshop @ MICCAI 2023](https://workshop2023.isic-archive.com/)
+
 
 
 Internship
@@ -28,5 +30,6 @@ Internship
 
 Teaching Assistant
 ====
+* **ELEC 97112 (Computer Vision and Pattern Recognition)**, Imperial College London, 2024
 * **ELEC 571 (Medical Imaging)**, University of British Columbia. 2022-2023
 * **Engineering Graphics**, Beihang University, 2018-2019
