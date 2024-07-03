@@ -17,7 +17,7 @@ author_profile: true
 
 Service
 ====
-* **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop2023.isic-archive.com/)
+* **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop.isic-archive.com/2024/)
 * **Reviewer**, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * **Program Committee & Reviewer**, [8th ISIC Skin Image Analysis Workshop @ MICCAI 2023](https://workshop2023.isic-archive.com/)
 
