@@ -16,6 +16,8 @@ My research interest is multimodal deep learning in medicine. Currently I am wor
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*July-2023*] One paper (TIP) is **accepted** by ECCV 2024!!
+
 &#x2B50; &ensp; [*Oct-2023*] Our paper (AViT) has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023!
 
 &#x2B50; &ensp; [*Oct-2023*] I joined Imperial College London as a **PhD student** (full scholarship).
