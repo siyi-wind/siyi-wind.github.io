@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "siyi-du-453280205"
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0002-9961-4533"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-9961-4533" #"https://orcid.org/my-orcid?orcid=0000-0002-9961-4533"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
