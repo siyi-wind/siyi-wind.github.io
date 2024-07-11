@@ -17,6 +17,15 @@ author_profile: true
 
 <br/>
 
+<!-- TIP -->
+<img align="left" width="300" src="/images/siyi_ECCV2024_TIP.jpg" style="margin-right: 15px" /> 
+
+[TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data](http://arxiv.org/abs/2407.075823) \
+**Siyi Du**, Shaoming Zheng, Yinsong Wang, Wenjia Bai, Declan P. O'Regan, Chen Qin   \
+*ECCV*, 2024  \
+[arXiv](http://arxiv.org/abs/2407.07582) / [code](https://github.com/siyi-wind/TIP)
+
+
 <!-- AViT -->
 <img align="left" width="300" src="/images/siyi_MICCAIW2023_AViT.png" style="margin-right: 15px" /> 
 
