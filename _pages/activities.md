@@ -25,8 +25,8 @@ Service
 
 Internship
 ====
-* **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 * **Summer Research Intern** (Multi-modal Large Language Model for Recommendation), *Lenovo*, 2023
+* **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 
 
 Teaching Assistant

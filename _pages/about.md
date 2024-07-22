@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)), Imperial College London under Prof. [Chen Qin](https://cq615.github.io/), where I work on Medical Imaging and Deep Learning. I received my MASC degree in Electrical and Computer Engineering from the University of British Columbia at 2023, where I was a member at the Biomedical Signal and Image Computing Laboratory ([BiSICL](https://bisicl.ece.ubc.ca/)) and supervised by Prof. [Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/). Besides, I obtained my bachelor degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021. 
+I am a PhD student at the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)), Imperial College London under Dr. [Chen Qin](https://cq615.github.io/), where I work on Medical Imaging and Deep Learning. I received my MASC degree in Electrical and Computer Engineering from the University of British Columbia at 2023, where I was a member at the Biomedical Signal and Image Computing Laboratory ([BiSICL](https://bisicl.ece.ubc.ca/)) and supervised by Prof. [Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/). Besides, I obtained my bachelor degree in Automation Science (Pattern Recognition direction) from Beihang University at 2021, where I was supervised by Prof. [Zengchang Qin](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gl_tc8IAAAAJ&sortby=pubdate). 
 
-My research interest is multimodal deep learning in medicine. Currently I am working on image-tabular representation learning. 
+My research interest is multimodal deep learning and medical imaging. Currently I am working on image-tabular representation learning. 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 News &#x1F408;
 ======
 &#x2B50; &ensp; [*July-2024*] One paper (TIP) is **accepted** by ECCV 2024!!
+
+&#x2B50; &ensp; [*June-2024*] Happy to serve as a reviewer of the 9th ISIC Workshop @MICCAI 2024.
+
+&#x2B50; &ensp; [*May-2024*] Happy to serve as a reviewer of MICCAI 2024.
 
 &#x2B50; &ensp; [*Oct-2023*] Our paper (AViT) has been awarded **the best paper** at the 8th ISIC Workshop @MICCAI2023!
 
