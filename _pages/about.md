@@ -16,11 +16,13 @@ My research interest is multimodal deep learning and medical imaging. Currently 
 
 News &#x1F408;
 ======
-&#x2B50; &ensp; [*July-2024*] Two collaborative papers are **accepted** by [MLMI](https://mlmi.net/) and [MBIR](https://www.wbir.info/) Workshops @MICCAI2024, separately.
+&#x2B50; &ensp; [*Dec-2024*] Happy to serve as a reviewer of CVPR 2025.
 
-&#x2B50; &ensp; [*July-2024*] One paper (TIP) is **accepted** by ECCV 2024!!
+&#x2B50; &ensp; [*Jul-2024*] Two collaborative papers are **accepted** by [MLMI](https://mlmi.net/) and [MBIR](https://www.wbir.info/) Workshops @MICCAI2024, separately.
 
-&#x2B50; &ensp; [*June-2024*] Happy to serve as a reviewer of the 9th ISIC Workshop @MICCAI 2024.
+&#x2B50; &ensp; [*Jul-2024*] One paper (TIP) is **accepted** by ECCV 2024!!
+
+&#x2B50; &ensp; [*Jun-2024*] Happy to serve as a reviewer of the 9th ISIC Workshop @MICCAI 2024.
 
 &#x2B50; &ensp; [*May-2024*] Happy to serve as a reviewer of MICCAI 2024.
 
@@ -36,7 +38,7 @@ News &#x1F408;
 
 &#x2B50; &ensp; [*May-2023*] Our paper (FairDisCo) has been awarded **the best paper** at the 7th ISIC Workshop @ECCV2022!
 
-&#x2B50; &ensp; [*August-2022*] Our paper (FairDisCo) has been **accepted** (~20% acceptance rate) by the 7th ISIC Workshop @ECCV2022!
+&#x2B50; &ensp; [*Aug-2022*] Our paper (FairDisCo) has been **accepted** (~20% acceptance rate) by the 7th ISIC Workshop @ECCV2022!
 
 
 <!-- A data-driven personal website
