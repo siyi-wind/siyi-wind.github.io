@@ -32,7 +32,8 @@ Internship
 
 Teaching Assistant
 ====
-* **ELEC60019 (Machine Learning)**, Imperial College London, 2024
+* **ELEC 70121 (Trustworthy Artificial Intelligence in Medical Imaging)**, Imperial College London, 2025
+* **ELEC 60019 (Machine Learning)**, Imperial College London, 2024
 * **ELEC 97112 (Computer Vision and Pattern Recognition)**, Imperial College London, 2024
 * **ELEC 571 (Medical Imaging)**, University of British Columbia. 2022-2023
 * **Engineering Graphics**, Beihang University, 2018-2019
