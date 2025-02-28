@@ -17,6 +17,7 @@ author_profile: true
 
 Service
 ====
+* **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)
 * **Reviewer**, [CVPR 2025](https://cvpr.thecvf.com/)
 * **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop.isic-archive.com/2024/)
 * **Reviewer**, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
@@ -32,8 +33,9 @@ Internship
 
 Teaching Assistant
 ====
-* **ELEC 70121 (Trustworthy Artificial Intelligence in Medical Imaging)**, Imperial College London, 2025
+* **ELEC60009/70061 (Trustworthy Artificial Intelligence in Medical Imaging)**, Imperial College London, 2025
 * **ELEC 60019 (Machine Learning)**, Imperial College London, 2024
-* **ELEC 97112 (Computer Vision and Pattern Recognition)**, Imperial College London, 2024
+* **ELEC 97112 (Deep Learning)**, Imperial College London, 2024-2025
+* **ELEC 97112 (Computer Vision and Pattern Recognition)**, Imperial College London, 2024-2025
 * **ELEC 571 (Medical Imaging)**, University of British Columbia. 2022-2023
 * **Engineering Graphics**, Beihang University, 2018-2019

@@ -16,6 +16,8 @@ My research interest is multimodal deep learning and medical imaging. Currently 
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*Feb-2025*] One paper (TIP) is **accepted** by CVPR 2025.
+
 &#x2B50; &ensp; [*Dec-2024*] Happy to serve as a reviewer of CVPR 2025.
 
 &#x2B50; &ensp; [*Jul-2024*] Two collaborative papers are **accepted** by [MLMI](https://mlmi.net/) and [MBIR](https://www.wbir.info/) Workshops @MICCAI2024, separately.
