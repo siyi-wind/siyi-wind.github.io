@@ -16,6 +16,8 @@ My research interest is multimodal deep learning and medical imaging. Currently 
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*March-2024=5*] Happy to serve as a reviewer of both ICCV 2025 and MICCAI 2025.
+
 &#x2B50; &ensp; [*Feb-2025*] One paper (STiL) is **accepted** by CVPR 2025!!
 
 &#x2B50; &ensp; [*Dec-2024*] Happy to serve as a reviewer of CVPR 2025.
