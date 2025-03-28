@@ -17,10 +17,10 @@ author_profile: true
 
 Service
 ====
-* **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp)
+* **Reviewer**, [ICCV 2025](https://iccv.thecvf.com/)
 * **Reviewer**, [CVPR 2025](https://cvpr.thecvf.com/)
+* **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop.isic-archive.com/2024/)
-* **Reviewer**, [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * **Program Committee & Reviewer**, [8th ISIC Skin Image Analysis Workshop @ MICCAI 2023](https://workshop2023.isic-archive.com/)
 
 

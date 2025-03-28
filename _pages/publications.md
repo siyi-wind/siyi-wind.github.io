@@ -52,7 +52,7 @@ You can find my full publication list at  <u><a href="https://scholar.google.com
 
 [Continual-GEN: Continual Group Ensembling for Domain-agnostic Skin Lesion Classification](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_1) \
 Nourhan Bayasi, **Siyi Du**, Ghassan Hamarneh, Rafeef Garbi   \
-*MICCAI 8th ISIC Workshop*, 2023  \
+*MICCAI 8th ISIC Workshop*, 2023, **Oral**   \
 [pdf](https://workshop2023.isic-archive.com/paper_bayasi.pdf) / [code](https://github.com/nourhanb/Continual-GEN)
 
 
