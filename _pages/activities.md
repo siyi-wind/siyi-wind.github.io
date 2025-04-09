@@ -31,6 +31,13 @@ Internship
 * **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 
 
+
+Invited Talk
+====
+* **Multimodal Deep Representation Learning for Medical Data Analysis**, [Heartflow](https://www.heartflow.com/), 2025
+
+
+
 Teaching Assistant
 ====
 * **ELEC 60009/70061 (Trustworthy Artificial Intelligence in Medical Imaging)**, Imperial College London, 2025
