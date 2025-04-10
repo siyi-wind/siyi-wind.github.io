@@ -23,20 +23,20 @@ Service
 * **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop.isic-archive.com/2024/)
 * **Program Committee & Reviewer**, [8th ISIC Skin Image Analysis Workshop @ MICCAI 2023](https://workshop2023.isic-archive.com/)
 
-
+<br>
 
 Internship
 ====
 * **Summer Research Intern** (Multi-modal Large Language Model for Recommendation), *Lenovo*, 2023
 * **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 
-
+<br>
 
 Invited Talk
 ====
 * **Multimodal Deep Representation Learning for Medical Data Analysis**, [Heartflow](https://www.heartflow.com/), 2025
 
-
+<br>
 
 Teaching Assistant
 ====
