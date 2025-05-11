@@ -25,7 +25,7 @@ You can find my full publication list at  <u><a href="https://scholar.google.com
 [STiL: Semi-supervised Tabular-Image Learning for Comprehensive Task-Relevant Information Exploration in Multimodal Classification](http://arxiv.org/abs/2503.06277) \
 **Siyi Du**, Xinzhe Luo, Declan P. O'Regan, Chen Qin   \
 *CVPR*, 2025  \
-[arXiv](http://arxiv.org/abs/2503.06277) / [code](https://github.com/siyi-wind/STiL)
+[arXiv](http://arxiv.org/abs/2503.06277) / [code](https://github.com/siyi-wind/STiL) / [video](https://www.youtube.com/watch?v=-q3H0M4BpnE)
 
 
 
@@ -35,7 +35,7 @@ You can find my full publication list at  <u><a href="https://scholar.google.com
 [TIP: Tabular-Image Pre-training for Multimodal Classification with Incomplete Data](https://dl.acm.org/doi/abs/10.1007/978-3-031-72633-0_27) \
 **Siyi Du**, Shaoming Zheng, Yinsong Wang, Wenjia Bai, Declan P. O'Regan, Chen Qin   \
 *ECCV*, 2024  \
-[arXiv](http://arxiv.org/abs/2407.07582) / [code](https://github.com/siyi-wind/TIP)
+[arXiv](http://arxiv.org/abs/2407.07582) / [code](https://github.com/siyi-wind/TIP) / [video](https://www.youtube.com/watch?v=-3_ccGxa4_4)
 
 
 <!-- AViT -->
