@@ -17,6 +17,7 @@ author_profile: true
 
 Service
 ====
+* **Reviewer**, [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 * **Reviewer**, [ICCV 2025](https://iccv.thecvf.com/)
 * **Reviewer**, [CVPR 2025](https://cvpr.thecvf.com/)
 * **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), [MICCAI 2024](https://conferences.miccai.org/2024/en/)
