@@ -21,8 +21,8 @@ Service
 * **Reviewer**, [ICCV 2025](https://iccv.thecvf.com/)
 * **Reviewer**, [CVPR 2025](https://cvpr.thecvf.com/)
 * **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), [MICCAI 2024](https://conferences.miccai.org/2024/en/)
-* **Program Committee & Reviewer**, [9th ISIC Skin Image Analysis Workshop @ MICCAI 2024](https://workshop.isic-archive.com/2024/)
-* **Program Committee & Reviewer**, [8th ISIC Skin Image Analysis Workshop @ MICCAI 2023](https://workshop2023.isic-archive.com/)
+* **Program Committee & Reviewer**, [8-10th ISIC Skin Image Analysis Workshop @ MICCAI 2023-2025](https://workshop.isic-archive.com/2025/)
+
 
 <br>
 

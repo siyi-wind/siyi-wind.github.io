@@ -20,6 +20,8 @@ I obtained my Bachelor's degree in Automation Science (Pattern Recognition direc
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*June-2025*] Happy to serve as a reviewer of the 10th ISIC Workshop @MICCAI 2025.
+
 &#x2B50; &ensp; [*Mar-2025*] Happy to serve as a reviewer of both ICCV 2025 and MICCAI 2025.
 
 &#x2B50; &ensp; [*Feb-2025*] One paper (STiL) is **accepted** by CVPR 2025!!
