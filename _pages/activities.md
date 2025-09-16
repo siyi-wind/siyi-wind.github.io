@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Service
+Academic Service
 ====
 * **Reviewer**, [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
 * **Reviewer**, [ICCV 2025](https://iccv.thecvf.com/)
@@ -26,20 +26,21 @@ Service
 
 <br>
 
-Internship
+Internship / Industry Experience
 ====
 * **Summer Research Intern** (Multi-modal Large Language Model for Recommendation), *Lenovo*, 2023
 * **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 
 <br>
 
-Invited Talk
+Invited & Selected Talk
 ====
-* **Multimodal Deep Representation Learning for Medical Data Analysis**, [Heartflow](https://www.heartflow.com/), 2025
+* **Invited Talk** (Multimodal Deep Representation Learning for Medical Data Analysis), [Heartflow](https://www.heartflow.com/), 2025
+* **Short Talk**, [Third Workshop on Multimodal AI](https://multimodalai.github.io/multimodalai25/) at UK Open Multimodal AI Network, London, 2025 (Abstract accepted, based on CVPR 2025 paper)
 
 <br>
 
-Teaching Assistant
+Teaching Experience
 ====
 * **ELEC 60009/70061 (Trustworthy Artificial Intelligence in Medical Imaging)**, Imperial College London, 2025
 * **ELEC 60019 (Machine Learning)**, Imperial College London, 2024
