@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <style>
-/* 全局去掉所有表格边框 */
+
 table, th, td {
   border: none !important;
   border-collapse: collapse !important;
@@ -19,7 +19,7 @@ td {
   vertical-align: top;
   padding-left: 15px;
 }
-/* 美化图片 */
+
 img {
   border-radius: 8px;
   box-shadow: none;
