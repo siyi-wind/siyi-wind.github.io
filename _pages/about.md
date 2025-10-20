@@ -14,12 +14,14 @@ I received my MASC degree in Electrical and Computer Engineering from the Univer
 
 I obtained my Bachelor's degree in Automation Science (Pattern Recognition direction) from Beihang University in 2021, where I was supervised by Prof. [Zengchang Qin](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gl_tc8IAAAAJ&sortby=pubdate). 
 
-**I'm currently seeking for a PhD research internship focusing on multimodal learning and LLM**
+**I'm currently seeking for a PhD research internship in multimodal learning and LLM**
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*Oct-2025*] Happy to serve as a reviewer of ICLR 2026.
+
 &#x2B50; &ensp; [*June-2025*] Happy to serve as a reviewer of the 10th ISIC Workshop @MICCAI 2025.
 
 &#x2B50; &ensp; [*Mar-2025*] Happy to serve as a reviewer of both ICCV 2025 and MICCAI 2025.
