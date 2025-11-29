@@ -17,11 +17,16 @@ author_profile: true
 
 Academic Service
 ====
-* **Reviewer**, [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83)
-* **Reviewer**, [ICCV 2025](https://iccv.thecvf.com/)
-* **Reviewer**, [CVPR 2025](https://cvpr.thecvf.com/)
-* **Reviewer**, [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp), [MICCAI 2024](https://conferences.miccai.org/2024/en/)
-* **Program Committee & Reviewer**, [8-10th ISIC Skin Image Analysis Workshop @ MICCAI 2023-2025](https://workshop.isic-archive.com/2025/)
+**Journal Reviewer**
+
+* **Reviewer**, [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [Journal of Medical Imaging](https://www.google.com/search?q=journal+of+medical+imaging&oq=journal+of+medical++imaging+++&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDcxNzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8)
+
+**Conference Reviewer**
+* **Reviewer**, [ICLR 2026](https://iclr.cc/), [ICCV 2025](https://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [MICCAI 2024-2025](https://conferences.miccai.org/2025/en/default.asp), [IEEE ISBI 2026](https://biomedicalimaging.org/2026/)
+
+**Program Committee & Reviewer**
+
+* [8-10th ISIC Skin Image Analysis Workshop @ MICCAI 2023-2025](https://workshop.isic-archive.com/2025/)
 
 
 <br>
