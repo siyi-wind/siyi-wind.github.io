@@ -43,6 +43,24 @@ You can find my full publication list at  <u><a href="https://scholar.google.com
 
 <br/>
 
+<!-- DyMo -->
+<table>
+<tr>
+<td style="width: 250px;">
+<img src="/images/siyi_ICLR2026_DyMo.jpg" width="250">
+</td>
+<td style="vertical-align: top; padding-left: 15px;">
+<a href="https://openreview.net/forum?id=PWhDUWRVhM&noteId=PWhDUWRVhM" target="_blank"><strong>Inference-Time Dynamic Modality Selection for Incomplete Multimodal Classification</strong></a><br>
+<strong>Siyi Du</strong>, Xinzhe Luo, Declan P. O'Regan, Chen Qin<br>
+<em>ICLR</em>, 2026<br>
+<a href="https://arxiv.org/abs/2601.22853" target="_blank">arXiv</a> / 
+<a href="https://github.com/siyi-wind/DyMo" target="_blank">code</a> 
+<!-- <a href="https://www.youtube.com/watch?v=-q3H0M4BpnE" target="_blank">video</a> -->
+</td>
+</tr>
+</table>
+
+
 <!-- STiL -->
 <table>
 <tr>
