@@ -20,7 +20,7 @@ I obtained my Bachelor's degree in Automation Science (Pattern Recognition direc
 
 News &#x1F408;
 ======
-&#x2B50; &ensp; [*Feb-2026*] Happy to serve as a reviewer of ICML 2026.
+&#x2B50; &ensp; [*Jan-2026*] One collaborative image registration paper (AC-CAR) is **accepted** by TMI!
 
 &#x2B50; &ensp; [*Jan-2026*] One paper (DyMo) is **accepted** by ICLR 2026!!
 
