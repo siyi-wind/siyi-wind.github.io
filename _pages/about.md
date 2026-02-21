@@ -20,9 +20,9 @@ I obtained my Bachelor's degree in Automation Science (Pattern Recognition direc
 
 News &#x1F408;
 ======
-&#x2B50; &ensp; [*Jan-2026*] One collaborative image registration paper (AC-CAR) is **accepted** by TMI!
+&#x2B50; &ensp; [*Jan-2026*] One collaborative image registration paper ([AC-CAR](https://ieeexplore.ieee.org/abstract/document/11345324)) is **accepted** by IEEE TMI!
 
-&#x2B50; &ensp; [*Jan-2026*] One paper (DyMo) is **accepted** by ICLR 2026!!
+&#x2B50; &ensp; [*Jan-2026*] One paper ([DyMo](https://openreview.net/forum?id=PWhDUWRVhM&noteId=PWhDUWRVhM)) is **accepted** by ICLR 2026!!
 
 &#x2B50; &ensp; [*Oct-2025*] Happy to serve as a reviewer of ICLR 2026.
 
@@ -30,13 +30,13 @@ News &#x1F408;
 
 &#x2B50; &ensp; [*Mar-2025*] Happy to serve as a reviewer of both ICCV 2025 and MICCAI 2025.
 
-&#x2B50; &ensp; [*Feb-2025*] One paper (STiL) is **accepted** by CVPR 2025!!
+&#x2B50; &ensp; [*Feb-2025*] One paper ([STiL](https://openaccess.thecvf.com/content/CVPR2025/html/Du_STiL_Semi-supervised_Tabular-Image_Learning_for_Comprehensive_Task-Relevant_Information_Exploration_in_CVPR_2025_paper.html)) is **accepted** by CVPR 2025!!
 
 &#x2B50; &ensp; [*Dec-2024*] Happy to serve as a reviewer of CVPR 2025.
 
 &#x2B50; &ensp; [*Jul-2024*] Two collaborative papers are **accepted** by [MLMI](https://mlmi.net/) and [MBIR](https://www.wbir.info/) Workshops @MICCAI2024, separately.
 
-&#x2B50; &ensp; [*Jul-2024*] One paper (TIP) is **accepted** by ECCV 2024!!
+&#x2B50; &ensp; [*Jul-2024*] One paper ([TIP](https://dl.acm.org/doi/abs/10.1007/978-3-031-72633-0_27)) is **accepted** by ECCV 2024!!
 
 &#x2B50; &ensp; [*Jun-2024*] Happy to serve as a reviewer of the 9th ISIC Workshop @MICCAI 2024.
 
