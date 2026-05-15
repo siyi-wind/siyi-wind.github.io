@@ -17,15 +17,16 @@ author_profile: true
 
 Academic Service
 ====
-**Journal Reviewer**
+**Workshop Organizer**
+* Multimodal Learning with Medical Tabular Data (MultiTab) @MICCAI Conference, 2026
 
+**Journal Reviewer**
 * [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [Journal of Medical Imaging](https://www.google.com/search?q=journal+of+medical+imaging&oq=journal+of+medical++imaging+++&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDcxNzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8), [Machine Learning for Biomedical Imaging (MELBA)](https://www.melba-journal.org/)
 
 **Conference Reviewer**
-* [ICLR 2026](https://iclr.cc/), [ICCV 2025](https://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [MICCAI 2024-2026](https://conferences.miccai.org/2025/en/default.asp), [IEEE ISBI 2026](https://biomedicalimaging.org/2026/)
+* [NIPS 2026](https://neurips.cc/), [ICLR 2026](https://iclr.cc/), [ICCV 2025](https://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [MICCAI 2024-2026](https://conferences.miccai.org/2025/en/default.asp), [IEEE ISBI 2026](https://biomedicalimaging.org/2026/)
 
 **Program Committee & Reviewer**
-
 * [8-10th ISIC Skin Image Analysis Workshop @ MICCAI 2023-2025](https://workshop.isic-archive.com/2025/)
 
 
@@ -33,6 +34,7 @@ Academic Service
 
 Internship / Industry Experience
 ====
+* **Research Intern** (Multimodal Vision Language Pretraining for 3D Medical Data), *Alibaba DAMO Academy*, 2026
 * **Summer Research Intern** (Multi-modal Large Language Model for Recommendation), *Lenovo*, 2023
 * **Summer Research Intern** (Adaptation of Robot to New Environment Based on Self-Supervised Learning), *Kent State University*, 2020 
 
