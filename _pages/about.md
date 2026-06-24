@@ -20,6 +20,8 @@ I obtained my Bachelor's degree in Automation Science (Pattern Recognition direc
 
 News &#x1F408;
 ======
+&#x2B50; &ensp; [*June-2026*] Happy to serve as a reviewer of NIPS 2026, BMVC 2026, and the 11th ISIC Workshop @MICCAI 2026.
+
 &#x2B50; &ensp; [*Mar-2026*] Happy to serve as a reviewer of MICCAI 2026.
 
 &#x2B50; &ensp; [*Jan-2026*] One collaborative image registration paper ([AC-CAR](https://ieeexplore.ieee.org/abstract/document/11345324)) is **accepted** by IEEE TMI!
