@@ -17,14 +17,14 @@ author_profile: true
 
 Academic Service
 ====
-**Workshop Organizer**
-* Multimodal Learning with Medical Tabular Data (MultiTab) @MICCAI Conference, 2026
+**Workshop Program Chair**
+* [Multimodal Learning with Medical Tabular Data (MultiTab) @MICCAI Conference](https://multitab-miccai-2026.github.io/), 2026
 
 **Journal Reviewer**
 * [IEEE Transactions on Image Processing (TIP)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83), [Journal of Medical Imaging](https://www.google.com/search?q=journal+of+medical+imaging&oq=journal+of+medical++imaging+++&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg9MgYIAhBFGD0yBggDEEUYPdIBCDcxNzlqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8), [Machine Learning for Biomedical Imaging (MELBA)](https://www.melba-journal.org/)
 
 **Conference Reviewer**
-* [NIPS 2026](https://neurips.cc/), [ICLR 2026](https://iclr.cc/), [ICCV 2025](https://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [MICCAI 2024-2026](https://conferences.miccai.org/2025/en/default.asp), [IEEE ISBI 2026](https://biomedicalimaging.org/2026/), [BMVC 2026](https://www.bmva.org/bmvc)
+* [NIPS 2026](https://neurips.cc/), [ICLR 2026](https://iclr.cc/), [ICCV 2025](https://iccv.thecvf.com/), [CVPR 2025](https://cvpr.thecvf.com/), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/), [MICCAI 2024-2026](https://conferences.miccai.org/2025/en/default.asp), [IEEE ISBI 2026](https://biomedicalimaging.org/2026/), [BMVC 2026](https://www.bmva.org/bmvc)
 
 **Program Committee & Reviewer**
 * [8-10th ISIC Skin Image Analysis Workshop @ MICCAI 2023-2026](https://workshop.isic-archive.com/2025/)

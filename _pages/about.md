@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)), Imperial College London, supervised by Dr. [Chen Qin](https://cq615.github.io/). My research focuses on multimodal deep learning and medical imaging, particularly self/semi-supervised representation learning and learning from incomplete modalities.
+I am a PhD student at the Biomedical Image Analysis Group ([BioMedIA](https://biomedia.doc.ic.ac.uk/)), Imperial College London, supervised by Dr. [Chen Qin](https://cq615.github.io/). My research focuses on multimodal learning, multimodal large language models (MLLMs), and medical imaging, particularly self/semi-supervised representation learning and learning from incomplete modalities.
 
 I received my MASC degree in Electrical and Computer Engineering from the University of British Columbia in 2023, where I was a research assistant of the Biomedical Signal and Image Computing Laboratory ([BiSICL](https://bisicl.ece.ubc.ca/)), supervised by Prof. [Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/), and collaborated with Prof. [Ghassan Hamarneh](https://scholar.google.com/citations?hl=en&user=61DdlkAAAAAJ&view_op=list_works&sortby=pubdate) at Simon Fraser University. 
 
@@ -21,6 +21,8 @@ I obtained my Bachelor's degree in Automation Science (Pattern Recognition direc
 News &#x1F408;
 ======
 &#x2B50; &ensp; [*June-2026*] Happy to serve as a reviewer of NIPS 2026, BMVC 2026, and the 11th ISIC Workshop @MICCAI 2026.
+
+&#x2B50; &ensp; [*May-2026*] Serve as a program chair of [MICCAI 2026 MultiTAB Workshop](https://multitab-miccai-2026.github.io/).
 
 &#x2B50; &ensp; [*Mar-2026*] Happy to serve as a reviewer of MICCAI 2026.
 
