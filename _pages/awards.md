@@ -15,9 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-* [*Oct-2023*] **Best Paper Award**, 8th ISIC Skin Image Analysis Workshop @ MICCAI 2023
+* [*Oct-2025*] **Apple AI/ML Scholars Institutional Nominee**, Imperial College London
+* [*Oct-2023*] **Best Paper Award** (Top 1), 8th ISIC Skin Image Analysis Workshop @ MICCAI 2023
 * [*Sep-2023*] **PhD Full Scholarship**, Imperial College London, 2023-2027
-* [*May-2023*] **Best Paper Award**, 7th ISIC Skin Image Analysis Workshop @ ECCV 2022
+* [*May-2023*] **Best Paper Award** (Top 1), 7th ISIC Skin Image Analysis Workshop @ ECCV 2022
 * [*Feb-2023*] **The Graduate Support Initiative (GSI) Award**, UBC, 4,000 CAD
 * [*Sep-2021*] **The Research Assistant Scholarship**, UBC, 21,000 CAD/year, 2021-2023
 * [*Sep-2021/2022/2023*] **The International Tuition Award**, UBC, 3,200 CAD, 2021-2022
