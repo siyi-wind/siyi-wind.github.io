@@ -14,7 +14,7 @@ I received my MASC degree in Electrical and Computer Engineering from the Univer
 
 I obtained my Bachelor's degree in Automation Science (Pattern Recognition direction) from Beihang University in 2021, where I was supervised by Prof. [Zengchang Qin](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=gl_tc8IAAAAJ&sortby=pubdate). 
 
-I'm currently a research intern at Alibaba DAMO Academy, working on multimodal large language models (MLLMs) and vision-language pre-training. 
+I am currently a research intern at Alibaba DAMO Academy, focusing on multimodal large language models (MLLMs) and vision-language pre-training. Previously, I was a research intern at Lenovo Research, where I worked on MLLMs for recommendation.
 
 <!-- **I'm currently seeking for a PhD research internship in multimodal learning and LLM** -->
 
